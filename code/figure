@@ -1,0 +1,6 @@
+     \usepackage{graphicx}
+     \begin{figure}[!htb]
+        \center{\includegraphics[width=\textwidth]
+        {figures/biotensor.png}}
+        \caption{\label{fig:my-label} My figure.  An example of a cool figure}
+      \end{figure}
